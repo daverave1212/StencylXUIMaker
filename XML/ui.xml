@@ -1,0 +1,29 @@
+<frame name="GenericFrameTest">
+	<button default="InventoryButton" name="closeButton" bottom=25 left=25></button>
+	<button default="InventoryButton" name="inventoryButton" top=25 right=25></button>
+</frame>
+
+
+<meta></meta>
+
+<frame name="CombatSpellButtons">
+	<row name = "combatButtons" bottom=20 right=20 padding=5 content-width=40>
+		<button></button>
+		<button></button>
+		<button></button>
+		<button></button>
+		<button></button>
+	</row>
+</frame>
+
+<frame name="MenuButtons">
+	<col name = "menuButtons" top=20 left=20 padding=5 content-width=auto amount=4>
+		<button default="InventoryButton"></button>
+	</col>
+</frame>
+
+<frame name="InventoryUI">
+	<table content-width=34 rows=6 cols=10 left=30 top=30 padding=5>
+		<image default="NULL.png"></image>
+	</table>
+</frame>

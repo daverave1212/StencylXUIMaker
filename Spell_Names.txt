@@ -1,0 +1,106 @@
+	
+		Maneuvers
+	[Dash] : 1 Action
+	[Defend] : 1 Action
+	[Push] : 1 Action
+	[Shift] : 0 Actions
+	[Bull Rush] : Passive
+	[Taunt] : 0.5 Actions
+	[Footwork] : Passive
+	[Grapple] : 1 Action
+	[Hamstring] : 1 Action
+	[Disengage] : 1 Action
+	[Aim] : 0.5 Actions
+	[Wait] : 1 Action
+	[Overthrow] : 1 Action
+		Spells
+	[Acid Burst] : 0.5 Actions
+	{Poison Spray} : 0.5 Actions
+	[Burning Breath] : 0.5 Actions
+	[Bonfire] : 1 Action
+	[Cleansing Flames] : 0 Actions
+	[Conjure Ammo] : 1 Action
+	[Control Flames] : 1 Action
+	[Control Water] : 1 Action
+	[Control Earth] : 1 Action
+	[Dancing Blade] : 1 Action
+	[Detect Poison and Disease] : 1 Action
+	[Eldritch Blast] : 1 Action
+	[Fire Bolt] : 1 Action
+	{Inflict Wounds} : 1 Action
+	[Frostbite] : 1 Action
+	[Guidance] : Reaction
+	[Hollow Touch] : 1 Action
+	[Land Breach] : 1 Actions
+	[Flameblade] : 0 Actions
+	[Light] : 1 Action
+	[Magic Missiles] : 1 Action
+	[Mastery] : 1 Action
+	[Mind Blast] : 1 Action
+	[Purify Food and Drink] : 1 Action
+	[Prestidigitation] : 1 Action
+	[Resistance] : 1 Action
+	[Quicksand] : 0.5 Actions
+	[Thaumaturgy] : 1 Action
+	[Thunder Clap] : 1 Action
+	[Encode Thoughts] : 1 Action (Level 4)
+		Advanced Spells
+	[Chaining Grasp] : 0 Actions
+	[Absorb Element] : Reaction
+	[Alarm] : 10 minutes
+	[Antimagic Rune] : 1 Action (Level 4)
+	[Animate Dead] : 1 Action
+	[Charming Word] : 1 Action
+	[Cure Wounds] : 1 Action
+	[Cure Poison] : 1 Action
+	[Cure Disease] : 10 minutes
+	[Dispel Magic] : 1 Action
+	[Feather Fall] : Reaction or 0 Actions
+	[Fog Cloud] : 1 Action
+	[Radiant Smite] : 0 Actions
+	[Blinding Smite] : 0 Actions
+	[Cleansing Smite] : 0 Actions
+	[Conceal Magic] : 1 Action (Level 4)
+	[Conjure Object] : 1 Action (Level 4)
+	[Curse of Pain] : 1 Action
+	[Curse of Weakness] : 1 Action
+	[Deathfire Bolt] : 1 Action
+	[Distort Vision] : 1 Action
+	[Fairy Fire] : 1 Action
+	[Fire Enchantment] : 1 Action
+	[Flash] : 0 Actions
+	[Frost Rune] : 1 Action
+	[Explosion Rune] : 1 Action
+	[Fake Sound] : 0.5 Action
+	[Fire Ball] : 1 Action (Level 4)
+	{Water Ball} : 1 Action (Level 4) (Fire Ball Variant)
+	{Thunder Ball} : 1 Action (Level 4) (Fire Ball Variant)
+	[Ice Spike] : 1 Action
+	[Influence Beast] : 1 Action
+	[Flame Strike] : 1 Action
+	[Invisibility] : 1 Action (Level 4)
+	[Levitate] : 1 Action (Level 4)
+	[Mage Armor] : 1 Action
+	[Barkskin] : Reaction
+	[Mage Hand] : 0 Actions
+	[Mending] : 1 Action
+	[Unlock] : 1 Action
+	[Magic Prison] : 5 minutes (Level 8)
+	[Portal] : 4 Hours (Level 8)
+	[Phase Orb] : 0.5 Actions
+	[Scorching Rays] : 1 Action
+	{Frostbiting Rays} : 1 Action (Scorching Rays Variant)
+	{Shocking Rays} : 1 Action (Scorching Rays Variant)
+	[Sense Magic] : 0 Actions (Level 4)
+	[Shield Element] : 0.5 Actions
+	[Shadow Clone] : 0 Actions
+	[Spare the Dying] : 1 Action (Level 4)
+	[Speak With Animals] : 1 Action
+	[Speak With Plants] : 1 Action
+	[Spider Climb] : 1 Action (Level 4)
+	[Translation] : 0 Actions (Level 4)
+	[Turn Undead] : 0 Actions
+	[Water Sphere] : 1 Action
+	[Wild Heart] : 1 Action
+	[Wild Roots] : 1 Action
+	[Wraithwalk] : 0 Actions (Level 8)

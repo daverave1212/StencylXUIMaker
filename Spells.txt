@@ -1,0 +1,617 @@
+	
+	
+	Maneuvers
+	
+[Dash] : 1 Action
+You can move 4 more meters this turn.
+
+[Defend] : 1 Action
+Until the start of your next turn, your Armor and all saves increase by +2.	
+
+[Push] : 1 Action
+A creature within 1 meter makes a Fortitude or Dexterity save (its choice).
+If it fails, it is pushed 1 meter away from you.
+You can always Push even if you don't have this maneuver, but the target has Advantage on the save.
+
+[Shift] : 0 Actions
+You can move 1 meter without triggering attacks of oportunity.
+This turn you can't move normally (and you can't use this if you already did).
+
+[Bull Rush] : Passive
+If you move at least 3 meters in a straight line and then attack a target, the attack gains +1 to hit.
+
+[Taunt] : 0.5 Actions
+Make an enemy roll a Wisdom save.
+If it fails, its next attack will (most probably) be on you.
+You can always Taunt even if you don't have this maneuver, but the target has Advantage on the save.
+1 meter range.
+
+[Footwork] : Passive
+You can't be slowed.
+
+[Grapple] : 1 Action
+Attempt to grapple an enemy.
+You make a Fortitude roll and the enemy makes a Dexterity or Fortitude roll (its choice).
+If you roll equal to or more than the enemy, the enemy becomes Grappled.
+A Grappled enemy can't move on its turn, has 0.5 fewer Actions and can't attack you.
+You and the enemy repeat the roll at the end of each of that enemy's turn.
+On your turn, you must spend 1 Action to keep the enemy Grappled. If you don't, the enemy is released.
+You can always Grapple even if you don't have this maneuver, but the target has Advantage on the roll.
+
+[Hamstring] : 1 Action
+A creature within 1 meter makes a Dexterity save.
+If it fails, its maximum speed becomes 3 meters.
+
+[Disengage] : 1 Action
+You don't trigger attacks of oportunity this turn.
+
+[Aim] : 0.5 Actions
+This turn, your next normal attack which takes 0.5 Actions has Advantage on the hit roll.
+
+[Wait] : 1 Action
+Increase or decrease your initiative by 5 this encounter.
+
+[Overthrow] : 1 Action
+Spend 1 Charge.
+A creature near you makes a Fortitude save and you make a Fortitude check.
+If you roll more than that creature's save, deal 3d4 + 2 damage to it and throw the creature over your shoulder, on the opposite side of your position, next to you.
+	
+	Basic Spells
+	
+[Acid Burst] : 0.5 Actions
+A creature within 3 meters makes a Dexterity save.
+It takes 1d8 + 1 Acid damage on a failed save.
+
+{Poison Spray} : 0.5 Actions
+A creature within 3 meters makes a Dexterity save.
+It takes 1d8 + 1 Poison damage on a failed save.
+(Acid Burst variant.)
+
+[Burning Breath] : 0.5 Actions
+All creatures in a 90 degree, 3 meter cone take 3 Fire damage.
+
+[Bonfire] : 1 Action
+Choose a 1x1x1 meter zone within 6 meters.
+A bonfire errupts in that place that lasts up to 10 minutes.
+Any creature touching the bonfire takes 1d10 Fire damage.
+If the bonfire can spread fire to nearby flammable objects that aren't being worn or carried, it spreads at the start of your next turn (same for further bonfires).
+
+
+
+[Cleansing Flames] : 0 Actions
+Spend 1 Charge.
+Make a spell attack against a target up to 9 meters away.
+If it hits, deals 2d4 Fire damage and removes all buffs and debuffs from the target.
+
+[Conjure Ammo] : 1 Action
+You can conjure up to 10 arrows, bolts or bullets, javelins, throwing knives, etc.
+The ammo disappears after 10 minutes.
+Tip: If you have this, you can just say you keep X amount of conjured ammo always ready, to speed the game up and not constantly interrupt the game.
+
+[Control Flames] : 1 Action
+Choose a 1x1x1 meter cube of fire.
+You can do the following things to it:
+- You can spread the fire 1 meter in any direction
+- You can extinguish it
+- You can double of halve the radius of light or heat it spreads
+- You can change its color
+- You can cause simple shapes to appear in the flicker.
+You can have 2 effects active at the same time at level 1, 3 at level 4 and 4 at level 8.
+Effects last up to 1 hour.
+If the fire touches a creature, it takes 1d8 Fire damage.
+6 meters range.
+
+[Control Water] : 1 Action
+Choose a 1x1x1 meter cube of water or ice.
+You can do the following things to it:
+- You can move it 1 meter in any direction
+- You can roughly alter its shape
+- You can change its color or opacity
+- You can freeze or evaporate the water. This will take up to 5 minutes at level 1 for 1x1x1 meter cube of water.
+At level 8, you can evaporate or freeze 1x1x1 meter cube of water with 1 Action.
+The water does no damage if it touches a creature.
+Effects last up to 1 hour.
+6 meters range.
+
+[Control Earth] : 1 Action
+Choose a 1x1x1 meter cube of dirt, loose stone, sand, etc.
+You can do the following things to it:
+- You can move it 1 meter in any direction.
+If a creature was hit by it or it was removed from below a creature's feet, it rolls a Dexterity save (against your Spell DC).
+If it fails, it takes 1d8 damage and is knocked prone.
+If a creature is burried in dirt (or loose stone, etc) after failing the save, it takes 1d8 additional damage.
+- You can roughly shape it in any form
+- You can cause it to become difficult terrain.
+You can do this twice per Long Rest at level 1, 3 times per Long Rest at level 4 and unlimited times at level 8.
+6 meters range.
+
+[Dancing Blade] : 1 Action
+You magically sheathe out a 1-Handed weapon you are carrying.
+For 1 minute, you can attack with that weapon (it levitates and attacks).
+This has 2 meters range.
+
+[Detect Poison and Disease] : 1 Action
+You know if there is any poison (or poisonous creature) or disease (or ill person) within 6 meters.
+
+[Eldritch Blast] : 1 Action
+Make a Spell attack.
+If you hit, deal 2d6 + 3 Force damage.
+6 meters range.
+	
+[Fire Bolt] : 1 Action
+Make a Spell attack.
+If you hit, deal 3d8 - 2 Fire damage.
+3 meters range.
+
+{Inflict Wounds} : 1 Action
+Make a Spell attack.
+If you hit, deal 3d8 - 2 Necrotic damage.
+3 meters range.
+(Fire Bolt variant.)
+
+[Frostbite] : 1 Action
+A creature within 6 meters makes a Fortitude save.
+Roll 2d8.
+If it fails, it takes the rolled damage (Cold) and its movement speed is halved for 1 turn.
+Otherwise, it takes half of that damage.
+
+[Guidance] : Reaction
+When an ally within 6 meters makes an ability check, it can use your modifier instead of its own.
+You can only do this every 1 hour.
+
+[Hollow Touch] : 1 Action
+Make a Spell attack.
+If you hit, deal 1d12 + 1 damage (Necrotic) and the target is unable to reagain health until the end of its next turn.
+
+[Land Breach] : 1 Actions
+You gather stone, dirt, sand, etc from the surroundings and release it upon an enemy.
+A creature within 9 meters makes a Dexterity save.
+If it fails, it takes 2d8 + 3 Force damage.
+
+[Flameblade] : 0 Actions
+Change the damage type of a melee attack you landed to Fire damage.
+
+[Light] : 1 Action
+You create a magical light bulb that sheds light in a 6 meters radius (20 meters at Level 5).
+The bulb levitates and stays where you put it, and you can always move it around with your hands.
+You can also simply attach the light to any object.
+Lasts for 1 hour (8 at level 9), or until you cancel it or cast Light again.
+You choose the color of the light.
+_The bulb can't go through solid objects._
+
+[Magic Missiles] : 1 Action
+Shoot 3 missiles. Each missile does 1d4.
+At Level 4, you can also spend any number of charges, and you shoot 2 more missiles for each Charge spent.
+You can send missiles to different targets, but you must declare all the attacks at once.
+
+[Mastery] : 1 Action
+For 1 minute, you can add your Wisdom or Charisma to an attack roll with a weapon instead of Strength or Dexterity.
+
+[Mind Blast] : 1 Action
+Make a Spell Attack against a creature and it also rolls a Wisdom save.
+If you hit, deal 2d10 - 1 Psychic damage.
+If it fails, it must move 1 meter in any direction (its choice).
+
+[Purify Food and Drink] : 1 Action
+Food you touch becomes clean of microbes and poison.
+A water containter you touch (up to 2 liters per cast) becomes drinkable, clean and free of microbes and poison.
+
+[Prestidigitation] : 1 Action
+6 meters range.
+You can create harmless sensory effects.
+You can create sparks and change the temperature of objects (channeled).
+You can instantly clean or soil objects.
+You can make symbols appear on surfaces (up to 1 hour).
+You can create small, harmless illusions that fit into your hand.
+You can control a quill with telekinesis to quickly write with it (1 meter range).
+
+[Resistance] : 1 Action
+Touch an ally.
+It gains +1d4 on a saving throw of your choice.
+Lasts until their next rest.
+You can only have this buff active on one person at a time.
+
+[Quicksand] : 0.5 Actions
+Declare a 2x2 meter zone within 6 meters made of dirt, sand or other such material.
+That zone becomes Difficult Terrain. Any creature on it is Slowed while it's on the zone.
+Lasts 1 minute.
+_Variant: You can also cause this difficult terrain with vegetation._
+
+[Thaumaturgy] : 1 Action
+You create one of the following magical effects (6 meters ranger):
+- Your voice booms up to three times as loud as normal for 1 minute.
+- You cause flames to flicker, brighten, dim, or change color for 1 minute.
+- You cause harmless tremors in the ground for 1 minute.
+- You cause an unlocked door or window to fly open or slam shut.
+- You alter the appearance of your eyes for 1 minute.
+At level 5 you can cast this for 0.5 Actions, and at Level 9, for 0 Actions.
+
+
+[Thunder Clap] : 1 Action
+All creatures within 1 meter of you make a Fortitude save.
+If they fail, they all take 1d6 + 1 Thunder damage.
+
+[Encode Thoughts] : 1 Action (Level 4)
+You pull a String of Memory or Thoughts (can be visual, auditive, sensory and olphactive) from your own memory.
+This String can be up to 1 minute in length.
+It is visible to the eye as an arcane ribbon-like energy.
+You can transport this String like you would carry a normal 10x10x10 decimeter object.
+To view the String, a person can willingly absorb it through the mouth, eyes, nose, etc (corresponding to the type of memories) and visualize the String.
+After that, the String disappears.
+Encoding another String makes the previous String disappear.
+Lasts up to 8 hours. 
+
+[Chaining Grasp] : 0 Actions
+Spend 1 Charge.
+Extend a magical chain to a solid object or medium (or larger) creature up to 6 meters away and pull yourself to the target instantly.
+The target also takes 1d6 True damage.
+
+
+
+	Level 1 Spells
+	
+[Absorb Element] : Reaction
+Spend 1 Charge.
+Use when you take magic damage.
+You only take half of that damage, and you infuse yourself with that element.
+The next time you make an attack, that attack deals 1d6 damage of the infused element (if it hits).
+
+[Alarm] : 10 minutes
+Spend 1 Charge.
+You setup an invisible 4x4x4 meter cube.
+If an unknown creature or enemy enters the cube, it alerts you mentally with a bell sound, or whatever sound you choose.
+Lasts for up to 8 hours.
+
+[Antimagic Rune] : 1 Action (Level 4)
+Spend 1 Charge.
+Place a rune on the ground.
+You can activate it at any time and from any distance.
+When you activate it, the rune creates a 25x25 feet zone.
+ALL units inside are attempted a silence and take (Your Level) Arcane damage on detonation.
+
+[Animate Dead] : 1 Action
+Spend 1 Charge.
+Raise an undead creature to fight for you from a nearby medium or larger corpse. The corpse is then consumed.
+The undead creature always has Medium size, 10 Maximum Health and 10 Armor.
+It has saves equal to yours, but -2 to all skill checks.
+It has 4 meters movement speed.
+It can use 1 Action to attack (Main Stat bonus to hit) and deals exactly 5 damage if it hits.
+Your undead takes its turn immediately before or after your turn (you choose).
+The undead will always try to move to and attack the closest enemy to it (you choose if it's a tie).
+You can use 0.5 Actions on your turn to command (one of) your undead to move to a certain location.
+Lasts up to 10 minutes.
+
+[Charming Word] : 1 Action
+Spend 1 Charge.
+A creature within 6 meters makes a Wisdom save.
+If it fails, all your Charisma checks for/against it have +2.
+Lasts until the creature can't see or hear you anymore.
+
+[Cure Wounds] : 1 Action
+Spend 1 Charge.
+Touch an ally and heal it for 1d12.
+
+[Cure Poison] : 1 Action
+Spend 1 Charge.
+Touch an ally and end any ongoing poison effects on it.
+
+[Cure Disease] : 10 minutes
+Spend 1 Charge.
+Touch an ally and cure a normally curable disease from it.
+If the disease is harder to cure (up to DM's interpretation), it costs 2 Charges instead of 1.
+Can't cure terminal diseases.
+
+[Dispel Magic] : 1 Action
+Spend 1 Charge.
+Touch an ally and dispell any ongoing curse or magical effects on it.
+
+[Feather Fall] : Reaction or 0 Actions
+Spend 1 Charge.
+Consume a {Large Feather} which can be bought for 10 gold.
+Up to 2 creatures you choose within 6 meters will start falling gently, down to 3 meters per round.
+Once the fall finishes, the spell effect ends.
+
+[Fog Cloud] : 1 Action
+Spend 1 Charge.
+A 5x5x5 meter cube of fog forms with the center within 6 meters.
+The fog spreads around corners.
+You can choose the color of the fog.
+All creatures inside the fog benefit from Cover, as well as creatures outside the fog attacked by a creature inside the fog.
+
+[Radiant Smite] : 0 Actions
+Spend 2 Charges.
+After you land a melee attack, deal 1d8 True damage to the target and all enemies around the target.
+
+[Blinding Smite] : 0 Actions
+Spend 2 Charges.
+After you land an attack, all creatures 1 meter in front of you and directly on your sides make a Dexterity save.
+If they fail, they are Blinded for 1 turn.
+
+[Cleansing Smite] : 0 Actions
+Spend 2 Charges.
+After you land a melee attack, deal 1d8 True damage to the target and heal yourself for that 1d8.
+
+[Conceal Magic] : 1 Action (Level 4)
+Spend 1 Charge.
+Your magic becomes undetectable for 1 hour.
+
+[Conjure Object] : 1 Action (Level 4)
+Spend 1 Charge.
+You can conjure an object that is up to 1 cube meter in size.
+The object is solid and glows faintly.
+You can't conjure mechanical objects.
+The object disappears after 1 hour.
+
+[Curse of Pain] : 1 Action
+Spend 1 Charge.
+A creature within 6 meters makes a Charisma save.
+If it fails, it takes 1d4 Psychic damage whenever it makes an attack.
+Lasts for 1 minute.
+
+[Curse of Weakness] : 1 Action
+Spend 1 Charge.
+A creature within 6 meters makes a Charisma save.
+If it fails, whenever it makes an attack roll or save, it rolls 1d4 and subtracts it from the result.
+Lasts for 1 minute.
+
+[Deathfire Bolt] : 1 Action
+Spend 1 Charge.
+Make a spell attack against a creature up to 6 meters away.
+This attack deals 1d12 + 1d10 + 1d8 damage, half Fire, half Necrotic.
+
+[Distort Vision] : 1 Action
+Spend 1 Charge.
+This incantation distorts the visual space in a 2x2 area.
+Make a Deception check for this, and you can add your Intelligence to the roll.
+While keeping the distorsion, you must maintain concentration.
+You lose concentration if you take damage or become crowd controlled.
+
+[Fairy Fire] : 1 Action
+Spend 1 Charge.
+Declare a 4x4x4 meter zone within 6 meters.
+All creatures in that zone make a Dexterity save with Disadvantage.
+If they fail, they become outlined in a colored glow (you choose the color).
+The creatures glow even through walls, but the denser the walls, the less they appear to glow.
+A 1-meter thick concrete wall completely blocks the glow.
+Lasts up to 10 minutes.
+
+[Fire Enchantment] : 1 Action
+Spend 1 Charge.
+Use a {Fire Rune} to imbue a weapon with Fire.
+That weapon deals +2 Fire damage.
+Lasts for 5 landed attacks, or for 24 hours.
+
+[Flash] : 0 Actions
+Spend 1 Charge.
+Instantly move up to 6 feet away.
+You must be able to get there as you normally would on foot.
+
+[Frost Rune] : 1 Action
+Spend 1 Charge.
+Place a rune on a smooth solid surface. The rune covers a 1x1 area.
+Heavy physical contact with the rune detonates it, dealing 3d6 Cold damage to the creature that activates it.
+The creature also rolls a Dexterity save.
+If it fails, it is Snared (frozen).
+Lasts up to 8 hours.
+
+[Explosion Rune] : 1 Action
+Spend 1 Charge.
+Place a rune on a smooth solid surface. The rune covers a 1x1 area.
+Heavy physical contact with the rune detonates it, dealing 1d10 + 1 Fire or Force damage (you choose) to all creatures in a 3x3x3 meter cube around the rune.
+Lasts up to 8 hours.
+
+[Fake Sound] : 0.5 Action
+Spend 1 Charge.
+You create a sound out of thin air.
+Roll a Deception check and add your Intelligence modifier to it to see how accurate your sound is.
+The sound doesn't last more than 6 seconds.
+4 meters range.
+
+[Fire Ball] : 1 Action (Level 4)
+Spend 3 Charges.
+Declare a 3x3 area. Roll 4d6.	// Slightly overpowered, but any less than that sucks
+All creatures in the zone make a Dexterity save.
+If they fail, they take the rolled dice in Fire damage.
+Otherwise, they take half of that amount.
+
+{Water Ball} : 1 Action (Level 4) (Fire Ball Variant)
+Spend 3 Charges.
+Declare a 3x3 area. Roll 4d6.	// Slightly overpowered, but any less than that sucks
+All creatures in the zone make a Dexterity save.
+If they fail, they take the rolled dice in Cold damage.
+Otherwise, they take half of that amount.
+
+{Thunder Ball} : 1 Action (Level 4) (Fire Ball Variant)
+Spend 3 Charges.
+Declare a 3x3 area. Roll 4d6.	// Slightly overpowered, but any less than that sucks
+All creatures in the zone make a Dexterity save.
+If they fail, they take the rolled dice in Thunder damage.
+Otherwise, they take half of that amount.
+
+[Ice Spike] : 1 Action
+Spend 2 Charges.
+Choose a target within 6 meters and see if it is Crowd Controlled.
+The target rolls a Dexterity save.
+If it fails, it takes 3d8 damage, or half of the rolled damage otherwise.
+The damage is doubled if the target is affected by any type of Crowd Control!
+
+[Influence Beast] : 1 Action
+Spend 1 Charge.
+A non-legendary beast that can see you makes a Charisma save.
+If it fails, you can change the beast's mood (make it hungry, afraid, nervous, etc).
+
+[Flame Strike] : 1 Action
+Spend 1 Charge.
+Conjure a 4x4 zone of flames on the ground, within 8 meters.
+At the end of each of your turns, roll 1d8.
+All creatures inside the zone take that amount as Fire damage.
+Lasts up to 1 minute, or until cancelled.
+
+[Invisibility] : 1 Action (Level 4)
+Spend 1 Charge.
+You become invisible for up to (Intelligence) minutes (at least 1).
+Attacking, taking damage or casting spells while invisible breaks the invisibility.
+
+[Levitate] : 1 Action (Level 4)
+Spend 1 Charge.
+First, roll 2d100. That's how many kilograms you can levitate when you cast this.
+You can levitate one object you can see that remains within 6 meters.
+You can slowly move the object vertically, 1 meter for each 2 of your movement points spent to levitate.
+If you use this on an enemy, it must fail a Fortitude save to be levitated, and can repeat the save at the end of each of its turns.
+A levitated creature counts as Snared.
+Losing concentration (taking damage or using any action) instantly starts slowly dropping the target and breaks the Levitate.
+
+[Mage Armor] : 1 Action
+Spend 1 Charge.
+For 8 Hours, your Armor can't be lower than 11.
+
+[Barkskin] : Reaction
+Spend 1 Charge and choose an ally within 6 meters.
+That ally becomes rooted (snared) in the ground for up to 1 minute.
+While rooted, that ally's Armor can't be lower than 12.
+On your turn, you can cancel this effect at any point.
+
+[Mage Hand] : 0 Actions
+Spend 1 Charge.
+Conjure a spectral hand in a place you can see within 6 meters.
+You can move the hand as you move your normal hands and instead of spending movement points to move yourself, you can move your hand the same distance.
+The hand can't attack and disappears if it goes outside a 12 meters range.
+The hand lasts for up to 8 hours.
+
+[Mending] : 1 Action
+Spend 1 Charge.
+Touch a slightly broken piece of material that is still in one piece.
+You can repair the damage done to it.
+Examples: repair a hole through a chain shirt or textile material, the crack in a piece of glass, etc.
+
+[Unlock] : 1 Action
+Spend 1 Charge.
+You can attempt to unlock a lock magically from up to 9 meters away.
+Using this counts as if you Know How to Pick Locks.
+You roll a Sleight of Hand for this, and you get a +2 on it.
+
+[Magic Prison] : 5 minutes (Level 8)
+You create a 4x4x4 meter cube.
+Choose a creature inside the cube.
+It makes an Intelligence save with triple disadvantage.
+If it fails, it can not exit the cube for 24 hours.
+It can make this save to try to escape every 24 hours.
+Lasts up to 7 days.
+You can cast this once per day per charge.
+
+
+[Portal] : 4 Hours (Level 8)
+Spend 3 Charges.
+You need a partner who can cast Portal to cast this.
+You both cast it at the same time, in different locations.
+At the end of the cast time, a portal opens at the locations of the two casters.
+Stepping through one of the portals (obviously) teleports the creature to the other portal.
+Lasts up to 30 days.
+You can only cast this every 30 days.
+
+// aici am ramas
+
+[Phase Orb] : 0.5 Actions
+Spend 1 Charge.
+Pick a 1x1 zone within 6 meters. A magical orb is created in that place.
+At the start of your next turn, the orb dashes to your position.
+All creatures caught in the orb's path take 3d4 Force damage.
+
+[Scorching Rays] : 1 Action
+Spend 1 Charge.
+Make 3 spell attacks against any target within 6 meters.
+Each attack deals 1d6 + 2 Fire damage if it hits.
+
+{Frostbiting Rays} : 1 Action (Scorching Rays Variant)
+Spend 1 Charge.
+Make 3 spell attacks against any target within 6 meters.
+Each attack deals 1d6 + 2 Cold damage if it hits.
+
+{Shocking Rays} : 1 Action (Scorching Rays Variant)
+Spend 1 Charge.
+Make 3 spell attacks against any target within 6 meters.
+Each attack deals 1d6 + 2 Thunder damage if it hits.
+
+[Sense Magic] : 0 Actions (Level 4)
+Spend 1 Charge.
+You can tell if there is magic within (Intelligence * 10) meters from you (at least 10 meters).
+You can also tell if an object you touch is magical.
+If it is a common magic item, you can tell what it does (e.g. Potions, Scrolls, etc).
+
+[Shield Element] : 0.5 Actions
+Spend 1 Charge.
+Name 1 element from Fire/Cold/Thunder and choose two allies within 6 meters.
+The next time those allies would take that type of damage, that damage is halved.
+
+[Shadow Clone] : 0 Actions
+Spend 1 Charge.
+You create an illusion of yourself at a target location within 3 meters.
+The illusion has 1 Health and 1 Armor and it fails all saves.
+You can control what the illusion does at will.
+Lasts up to 10 minutes.
+
+[Spare the Dying] : 1 Action (Level 4)
+Spend 1 Charge.
+Touch a creature that died at most 10 minutes ago or an unconscious creature.
+If the creature is dead, and if the creature's body is fairly intact, the dead creature comes back to life, stabilized and unconscious.
+If the creature is unconscious, the creature wakes up and is healed for 1 Health.
+
+[Speak With Animals] : 1 Action
+Spend 1 Charge.
+You can attempt to speak concrete ideas with willing, non-hostile animals.
+Lasts up to 10 minutes.
+Keep in mind that animals generally have low Intelligence, and they are not expected to 'speak' back to you through language.
+
+[Speak With Plants] : 1 Action
+Spend 1 Charge.
+You can attempt to speak concrete ideas with willing, large plants.
+Lasts up to 10 minutes.
+Keep in mind that plants generally have low Intelligence, and they are not expected to 'speak' back to you through language.
+
+[Spider Climb] : 1 Action (Level 4)
+Spend 1 Charge.
+For 10 minutes, your hands and feet can stick to solid, (more or less) flat surfaces, so you can walk on them.
+Your speed, if you do this, is halved.
+
+[Translation] : 0 Actions (Level 4)
+Spend 1 Charge.
+For 1 hour, you can understand any spoken or written Common language.
+
+[Turn Undead] : 0 Actions
+Spend 2 Charges.
+All Undead you can see within 6 meters make a Wisdom save.
+If any fails, it is Feared for 1 turn.
+
+
+[Water Sphere] : 1 Action
+Spend 1 Charge.
+Shoot a 1 meter in diameter ball of water in a direction parallel to the floor that can travel up to 8 meters.
+When the ball collides with a creature, it rolls a Dexterity save.
+It takes 2d10 damage if it fails, or half as much if it succeeds.
+The ball can bounce off of walls and solid objects (not creatures).
+The angle it bounces to is equal to the angle it was thrown from respective to the surface it bounces from (like light is reflected in a mirror in real life).
+Its damage increases by 1d12 for each bounce, and can bounce up to 2 times.
+The number of bonuces possible increases by 1 and maximum distance traveled by 6 at levels 4 and 8.
+
+[Wild Heart] : 1 Action
+Spend 1 Charge.
+Up to 2 allies gain +3 maximum (and current) Health and +1 to all saves until their next Long Rest.
+9 meters range.
+(The bonus to Health and Saves doesn't stack with itself, and the bonus to Saves doesn't stack with other Save buffs).
+
+[Wild Roots] : 1 Action
+Spend 1 Charge.
+Roots spawn from your position (next to you).
+The roots can move up to 5 meters right now, and you control how the roots move.
+Roots can pass through enemies, and all enemies they pass through must make a Dexterity save.
+If they fail, they are Snared and take 1d8 Piercing damage.
+
+[Wraithwalk] : 0 Actions (Level 8)
+Spend 1 Charge.
+You become spectral for 10 seconds (until the start of your next turn).
+While spectral, you can move through walls, objects and creatures, but not through floors and ceilings.
+If the effect doesn't end in an empty space, you are instantly thrown to the nearest empty space and you take 2d10 Force damage.
+
+
+
+
