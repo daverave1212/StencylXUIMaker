@@ -1,0 +1,24 @@
+
+<!button-actor src="ButtonActor"/>		<!-- In UIButton -->
+<!image-folder src="Images"/>           <!-- In the manager which is not created yet-->
+<!ui-layer-name src="UI"/>              <!-- In the manager which is not created yet-->
+
+<panel padding=20>
+	<panel>
+		<button margin-left=20 margin-top=50>Click Me!</button>
+	</panel>
+</panel>
+
+root = new Panel()
+root.setPadding(20)
+	panel = new Panel(root)
+		button = new Button(panel)
+	panel.addChild(button)
+root.addChild(panel)
+
+root.setup()
+	> panel.setup()
+		> button.setup()
+			> setX
+			
+			
